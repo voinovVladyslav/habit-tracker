@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     # local
     'user',
     'talent',
+    'deed',
 ]
 
 MIDDLEWARE = [
